@@ -2,6 +2,14 @@
     position: relative;
     z-index: 3;
   }
+  body{
+    /* background-color: #FEC8D8; */
+    background-color: azure;
+  }
+  .group-btn{
+    position:absolute;
+    top:365px;
+  }
   #no{
     position: absolute;
     display: inline-block;
